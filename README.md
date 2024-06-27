@@ -1,4 +1,4 @@
-# Danila Zakharchuk - [page](https://Mitaforost.github.io/Resume/index.html)
+# Danila Zakharchuk - [page](https://Mitaforost.github.io/resume/index.html)
 
 ![Photo](img/photo.jpg "My photo")
 
