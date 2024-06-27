@@ -1,6 +1,6 @@
 # Данила Захарчук
 
-![Photo](./CV-page/img/photo.jpg "My photo")
+![Photo](img/photo.jpg "My photo")
 
 ## Контактная информация
 
