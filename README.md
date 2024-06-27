@@ -1,1 +1,11 @@
-https://Mitaforost.github.io/Resume/index.html
+# Resume
+***
+## Branch
+> ### **ru-branch**
+> 
+> Resume on Russian language
+
+> ### **en-branch**
+>
+> Resume on English language
+
