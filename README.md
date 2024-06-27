@@ -1,8 +1,8 @@
-# Danila Zakharchuk
+# Данила Захарчук
 
 ![Photo](photo.jpg "My photo")
 
-## Contact Information
+## Контактная информация
 
 - **Email:** zaharchuk.danila18@gmail.com
 - **Telegram:** [@mitaforost](https://t.me/mitaforost)
@@ -12,62 +12,61 @@
 
 ---
 
-## About Me
+## Обо мне
 
-I am 22 years old. I am studying web development and graphic design. I maintain a healthy lifestyle. I successfully
-completed military service and gained invaluable experience. I actively learn and apply the knowledge I acquire in
-practice. I have no bad habits and constantly strive for self-improvement.
+Мне 22 года. Я изучаю веб-разработку и графический дизайн. Я веду здоровый образ жизни. Я успешно
+прошел военную службу и приобрел бесценный опыт. Я активно учусь и применяю полученные знания на
+практике. У меня нет вредных привычек, и я постоянно стремлюсь к самосовершенствованию.
 
 ---
 
-## Skills
+## Навыки
 
-- **Programming Languages:** C#, Python, JavaScript
-- **Version Control:** Git, GitHub, Gitlab
-- **Tools:** VSCode, intellij IDEA
-- **Graphic programs:** Photoshop, Illustrator, InDesign, CorelDRAW, Figma
+- **Языки программирования:** C#, Python, JavaScript
+- **Управление версиями:** Git, GitHub, Gitlab
+- **Инструменты:** VSCode, intellij IDEA
+- **Графические программы:** Photoshop, Illustrator, InDesign, CorelDRAW, Figma
 
-## Code Example
+## Пример кода
 
-[Exercise on codewars](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/javascript)
+[Упражнение на codewars](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/javascript)
 
 ```javascript
 function dnaStrand(dna) {
-    // Creating an object
+    // Создание объекта
     const complements = {
         'A': 'T',
         'T': 'A',
         'C': 'G',
         'G': 'C'
     };
-    // Use map to replace each character by a key and combine the result back into a string
+    // Использую map, чтобы заменить каждый символ значением ключа и объединить результат обратно в строку
     return dna.split('').map(nucl => complements[nucl]).join('');
 }
 ```
 
-## Work experience
+## Опыт работы
 
 > ### **2021-2023**
-> #### Worked in the army under contract
+> #### Служил в армии по контракту
 >
-> Finished service with the rank of **Senior Sergeant**. Held the position of **Assistant to the Chief of the
-Apparatus Room**.
+> Закончил службу в звании **старшего сержанта**. Занимал должность **Помощника начальника аппаратной**.
 
 > ### **2024**
-> #### Worked at the Stuttgart Center
-> Worked as a **content manager** for marketplaces and a **website administrator**.
+> #### Работал в Штутгарт центре
+> Работал **контент-менеджером** на маркетплейсах и администратором веб-сайта.
 
-## Education
+## Образование
 
-> ### 2021-2024: IIT BSUIR
-> #### Software engineer
-> **FKT**, Information technology software
+> ### 2021-2024: ИИТ БГУИР
+> #### Инженер-программист
+> **ФКТ**, Программное обеспечение информационных технологий
 
-> ### 2017-2021: College of Business and Law
-> #### technician-programmer
-> Information technology software
+> ### 2017-2021: Колледж бизнеса и права
+> #### Техник-программист
+> Программное обеспечение информационных технологий
 
-## Languages
+## Языки
 
-- **Russian** - native language.
-- **English** - A2.
+- **Русский** - родной язык
+- **Английский** - уровень A2
