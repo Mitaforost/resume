@@ -1,6 +1,6 @@
 # Danila Zakharchuk
 
-![Photo](photo.jpg "My photo")
+![Photo](./CV-page/img/photo.jpg "My photo")
 
 ## Contact Information
 
