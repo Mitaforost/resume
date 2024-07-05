@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-# Resume
-### [Page CV](https://mitaforost.github.io/resume/index.html)
-***
-## Branch
-> ### **ru-branch**
-> 
-> Resume on Russian language
-
-> ### **en-branch**
-=======
 # Danila Zakharchuk - [page](https://Mitaforost.github.io/resume/index.html)
 
 ![Photo](img/photo.jpg "My photo")
@@ -55,12 +44,3 @@ function dnaStrand(dna) {
     return dna.split('').map(nucl => complements[nucl]).join('');
 }
 ```
-
-## Work experience
-
-> ### **2021-2023**
-> #### Worked in the army under contract
->>>>>>> en-branch
->
-> Resume on English language
-
