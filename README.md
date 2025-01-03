@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am 22 years old. I am studying web development and graphic design. I maintain a healthy lifestyle. I successfully
+I am 23 years old. I am studying web development and graphic design. I maintain a healthy lifestyle. I successfully
 completed military service and gained invaluable experience. I actively learn and apply the knowledge I acquire in
 practice. I have no bad habits and constantly strive for self-improvement.
 
@@ -26,6 +26,7 @@ practice. I have no bad habits and constantly strive for self-improvement.
 - **Version Control:** Git, GitHub, Gitlab
 - **Tools:** VSCode, intellij IDEA
 - **Graphic programs:** Photoshop, Illustrator, InDesign, CorelDRAW, Figma
+- **Currently Learning:** TypeScript, React
 
 ## Code Example
 
