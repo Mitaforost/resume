@@ -27,6 +27,7 @@ practice. I have no bad habits and constantly strive for self-improvement.
 - **Tools:** VSCode, intellij IDEA
 - **Graphic programs:** Photoshop, Illustrator, InDesign, CorelDRAW, Figma
 - **Currently Learning:** TypeScript, React
+- **English:** A2-B1
 
 ## Code Example
 
