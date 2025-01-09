@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am 22 years old. I am studying web development and graphic design. I maintain a healthy lifestyle. I successfully
+I am 23 years old. I am studying web development and graphic design. I maintain a healthy lifestyle. I successfully
 completed military service and gained invaluable experience. I actively learn and apply the knowledge I acquire in
 practice. I have no bad habits and constantly strive for self-improvement.
 
@@ -26,6 +26,7 @@ practice. I have no bad habits and constantly strive for self-improvement.
 - **Version Control:** Git, GitHub, Gitlab
 - **Tools:** VSCode, intellij IDEA
 - **Graphic programs:** Photoshop, Illustrator, InDesign, CorelDRAW, Figma
+- **Currently Learning:** TypeScript, React
 
 ## Code Example
 
@@ -47,11 +48,10 @@ function dnaStrand(dna) {
 
 ## Work experience
 
-> ### **2021-2023**
-> #### Worked in the army under contract
+> ### **2024–Present**
+> #### Content Manager at Wannaplay
 >
-> Finished service with the rank of **Senior Sergeant**. Held the position of **Assistant to the Chief of the
-Apparatus Room**.
+> Engaged in creating and managing content strategies, working with AI tools for generating texts, planners, and images, as well as writing landing pages and ensuring their quality and relevance. Focused on delivering high-quality content tailored to the target audience.
 
 > ### **2024**
 > #### Worked at the Stuttgart Center
